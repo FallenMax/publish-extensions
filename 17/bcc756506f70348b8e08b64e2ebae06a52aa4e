@@ -1,0 +1,19 @@
+extension-control/extensions.json
+  s_6208f1d8f47ab2::t_44f5bf289a8bc2 1745-1752
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "17bcc756506f70348b8e08b64e2ebae06a52aa4e",
+  "prompts": {},
+  "sessions": {
+    "s_6208f1d8f47ab2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a147bd-6fb2-7630-b335-82c689357654",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "FallenMax <FallenMax@gmail.com>"
+    }
+  }
+}
